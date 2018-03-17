@@ -14,4 +14,4 @@ with react on the front-end handeled by webpack, and syled by SASS or CSS.
 
 Have fun!
 
-(the code is basically the result of following (this tutorial)[https://dev.to/aurelkurtula/setting-up-a-minimal-node-environment-with-webpack-and-babel--1j04?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more]
+(the code is basically the result of following [this tutorial](https://dev.to/aurelkurtula/setting-up-a-minimal-node-environment-with-webpack-and-babel--1j04?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
